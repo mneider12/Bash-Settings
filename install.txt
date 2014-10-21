@@ -1,0 +1,5 @@
+cp .bash_profile ~
+cp .bashsrc ~
+cp .gitconfig ~
+cp git-completion.bash ~
+cp git-prompt.sh ~
